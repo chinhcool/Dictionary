@@ -9,5 +9,12 @@ public class DictionaryCommandline {
         chucnang.insertFromCommandline();
         chucnang.showAllWords();
     }
+
+    /**
+     * Tim kiem tu.
+     */
+    public void dictionarySearcher(){
+
+    }
 }
 

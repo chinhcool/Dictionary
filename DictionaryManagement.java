@@ -48,4 +48,48 @@ public class DictionaryManagement {
 
     }
 
+    /**
+     * Ham tra cuu bang dong lenh.
+     */
+    public void dictionaryLookup(){
+
+    }
+
+    /**
+     * Ham chuc nang.
+     */
+    public void dictionaryAdvanced(){
+        insertFromFile();
+        showAllWords();
+        dictionaryLookup();
+    }
+
+    /**
+     * Ham them du lieu.
+     */
+    public void addWords(){
+
+    }
+
+    /**
+     * Ham sua du lieu.
+     */
+    public void editWords(){
+
+    }
+
+    /**
+     * Ham xoa du lieu.
+     */
+    public void removeWords(){
+
+    }
+
+    /**
+     * Xuat du lieu ra file.
+     */
+    public void dictionaryExportToFile(){
+
+    }
+
 }
