@@ -45,7 +45,7 @@ public class DictionaryManagement {
      * Ham nhap tu tu file.
      */
     public void insertFromFile(){
-
+        String url = "";
     }
 
     /**
