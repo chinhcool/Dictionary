@@ -1,6 +1,6 @@
 public class Dictionary {
-    int numberOfWords = 999999;
-    public Word[] wordList = new Word[numberOfWords];
+    int numberOfWords = 0;
+    public Word[] wordList = new Word[99999];
 
     public int getNumberOfWords() {
         return numberOfWords;
